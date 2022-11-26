@@ -1,4 +1,4 @@
-# Java-Project
+# Java-Projects
 Financial Applications using Java - Coding Internship {4 Weeks (140 hrs)}
 # Consumer Loan Assistant Project (Financial Application Development)
 ![image](https://user-images.githubusercontent.com/86942586/178886452-07c7587c-d466-4e58-9364-9cbfe9f8fd78.png) 
