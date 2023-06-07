@@ -2,18 +2,14 @@
 ![image](https://user-images.githubusercontent.com/86942586/178886452-07c7587c-d466-4e58-9364-9cbfe9f8fd78.png) 
 ![image](https://user-images.githubusercontent.com/86942586/178886769-50a3669b-8b7a-486b-b488-47463d6b1463.png)
 
-A project on developing consumer/customer loan assistant.
+
 # Problem statement : 
-(Ever wonder just) How much those credit card accounts are costing you ?
+How much those credit card accounts are costing you ?
 
 # Abstract : 
 The Consumer Loan Assistant Project computed payments and loan terms based on balance and interest information provided. The project focused on implementing focus traversal among controls, performing input validation to ensure accurate data entry, and utilizing message boxes to provide user feedback to the user.
 
 
-# Pre-requisites:
-* Experience with Core Java Programming.
-* Familiar with Java Swing.
-* Able to use Java 6 or above version.
 
 ![jav1](https://user-images.githubusercontent.com/86942586/178886031-1666d3b9-1836-4207-8745-c9625d54d333.png)
 
@@ -27,9 +23,6 @@ How does one calculate the worth of the House Hold goods and equipment's when ta
 
 # Abstract : 
 The Home Inventory Manager Project helped users keep track of their valuable belongings. For each item in the inventory, the program stored a description, location, serial number, purchase information, and even a photo. A printed inventory was available, which proved to be very useful for insurance purposes.
-# Pre-requisites:
-* Experience with Core Java Programming.
-* Familiar with Java Swing.
-* Able to use Java 6 or above version.
+
 
 ![jav2](https://user-images.githubusercontent.com/86942586/178882704-9fe2f6db-652b-40de-a30d-f28557d032b2.jpg)
