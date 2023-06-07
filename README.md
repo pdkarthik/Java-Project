@@ -26,7 +26,7 @@ The Consumer Loan Assistant Project computed payments and loan terms based on ba
 How does one calculate the worth of the House Hold goods and equipment's when taking a Household Insurance policy.
 
 # Abstract : 
-The Home Inventory Manager Project helps you keep track of your valuable belongings. For every item in your inventory, the program stores a description, location, serial number, purchase information, and even a photo. A printed inventory is available - very useful for insurance purposes. 
+The Home Inventory Manager Project helped users keep track of their valuable belongings. For each item in the inventory, the program stored a description, location, serial number, purchase information, and even a photo. A printed inventory was available, which proved to be very useful for insurance purposes.
 # Pre-requisites:
 * Experience with Core Java Programming.
 * Familiar with Java Swing.
