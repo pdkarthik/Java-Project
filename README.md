@@ -7,8 +7,7 @@ A project on developing consumer/customer loan assistant.
 (Ever wonder just) How much those credit card accounts are costing you ?
 
 # Abstract : 
-This project will help you get a handle on consumer debt. The Consumer Loan Assistant Project you would build computes payments and loan terms given balance and interest information. We look at focus traversal among controls, how to do input validation, and the message box for user feedback.
-
+The Consumer Loan Assistant Project computed payments and loan terms based on balance and interest information provided. The project focused on implementing focus traversal among controls, performing input validation to ensure accurate data entry, and utilizing message boxes to provide user feedback to the user.
 
 
 # Pre-requisites:
